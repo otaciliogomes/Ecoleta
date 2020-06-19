@@ -1,4 +1,4 @@
-# Ecoleta
+﻿# Ecoleta
 
 O projeto Ecoleta é uma Aplicação multiplataforma (Web, Android e IOS) para encontrar através de geolocalização pontos de coletas de resíduos específicos, assim o usuário consegui encontrar os pontos próximos de sua localização.
 
