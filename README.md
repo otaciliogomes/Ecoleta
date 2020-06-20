@@ -10,7 +10,8 @@ O projeto foi dividido em três pastas:
 Inicializando o projeto:
 - Faça o clone do repositório 
 - Abra as três pasta no terminal e utilize o comando npm i em cada uma delas para baixar as dependencias
-- Entre na pasta server e com o comando npm run dev, isso para com que o back-end da aplicação comece a funcionar
-- Para iniciar o mobile: npm start - OBS no arquivo api.ts - é necessario trocar o localhost pelo IP da sua maquina
-- Para iniciar o web : npm start - - OBS no arquivo api.ts - é necessario trocar o localhost pelo IP da sua maquina
+- Na pasta SERVER será preciso criar o naco de dados, 1º comando npm knex:migrate (criar as tabelas), 2º npm knex:seed (inserir  os dados na tabela items).
+- Entre na pasta SERVER e com o comando npm run dev, isso para com que o back-end da aplicação comece a funcionar
+- Para iniciar o MOBILE: npm start - OBS no arquivo api.ts - é necessario trocar o localhost pelo IP da sua maquina
+- Para iniciar o WEB : npm start  - OBS no arquivo api.ts - é necessario trocar o localhost pelo IP da sua maquina
 
